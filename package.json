@@ -1,0 +1,23 @@
+{
+  "name": "com.spkorea.com.spkorea.enumeditor",
+  "version": "1.0.1",
+  "displayName": "Enum Editor",
+  "description": "An editor window for creating and editing enums directly in your C# scripts.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/spkorea/EnumEditor#readme",
+  "changelogUrl": "https://github.com/spkorea/EnumEditor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/spkorea/EnumEditor/blob/main/LICENSE",
+  "keywords": [
+    "enum",
+    "editor",
+    "tool",
+    "unity",
+    "script"
+  ],
+  "author": {
+    "name": "Odil",
+    "email": "unbelievablep.dev1@gmail.com",
+    "url": "https://www.spkorea.art/"
+  }
+}
