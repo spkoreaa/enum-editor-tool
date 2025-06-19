@@ -28,4 +28,4 @@
 Add the following line to your project's `Packages/manifest.json` under `dependencies`:
 
 ```json
-"com.spkorea.enumeditor": "https://github.com/spkoreaa/enumeditor.git#main"
+"com.spkorea.enumeditor": "https://github.com/spkoreaa/enum-editor-tool.git"
